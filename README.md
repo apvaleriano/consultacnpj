@@ -2,20 +2,27 @@
 # Consulta CNPJ
 
 Consulta CNPJ Excel VBA
-Uma macro em VBA para Excel que automatiza a consulta em lote de CNPJs.
 
+Uma macro em VBA para Excel que automatiza a consulta em lote de CNPJs utilizando a Brasil API. O sistema formata automaticamente os CNPJs digitados e padroniza as informações de Simples Nacional e MEI.
 
 📋 Funcionalidades
 
 Consulta em lote de CNPJs
 
-Extração automática de dados como:
+Formatação automática de CNPJ na digitação (XX.XXX.XXX/XXXX-XX)
 
+Preenchimento automático com zeros à esquerda
+
+Padronização das informações de Simples Nacional e MEI
+
+Extração automática de dados como:
 Razão Social
 
 Nome Fantasia
 
 Endereço completo
+
+Telefone
 
 Situação cadastral
 
@@ -23,7 +30,7 @@ Informações sobre Simples Nacional e MEI
 
 CNAEs (principal e secundários)
 
-Dados municipais e outras informações cadastrais
+Dados municipais e outras informações cadastrai
 
 
 
@@ -39,7 +46,7 @@ Execute a macro ConsultaCNPJBatchBrasilAPI()
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/fp9TEnT.png)
+![App Screenshot](https://i.imgur.com/wxK1PpZ.png)
 
 
 ## 
