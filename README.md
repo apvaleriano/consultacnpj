@@ -55,7 +55,6 @@ Intervalo de 1 segundo entre requisições para evitar sobrecarga
 Tratamento de erro 429 (muitas requisições) com pausa de 5 segundos
 
 
-
 🛠️ Tratamentos Especiais
 
 Limpeza automática de formatação do CNPJ
@@ -64,12 +63,6 @@ Validação do tamanho do CNPJ (14 dígitos)
 
 Tratamento de valores nulos/ausentes
 
-
-⚠️ Limitações
-
-Sujeito aos limites de requisição da API
-
-Necessita de conexão com a internet
 
 📝 Notas
 
