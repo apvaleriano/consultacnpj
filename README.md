@@ -70,12 +70,3 @@ Recomenda-se verificar os termos de uso da API antes de utilizar em ambiente de 
 
 Para grandes volumes de consulta, considere implementar um sistema de cache
 ## 
-🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-Reportar bugs
-
-Sugerir novas funcionalidades
-
-Melhorar a documentação
