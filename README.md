@@ -70,3 +70,7 @@ Recomenda-se verificar os termos de uso da API antes de utilizar em ambiente de 
 
 Para grandes volumes de consulta, considere implementar um sistema de cache
 ## 
+
+## Créditos
+
+Este repositório foi concebido com a colaboração de [@vlrch](https://github.com/vlrch), cuja contribuição foi fundamental na definição da arquitetura e nos estágios iniciais de desenvolvimento.
